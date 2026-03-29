@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Zakaria
 
-<!--
-**Z4karia/Z4karia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account contains some of my earlier work, including Ledger applications developed during my time working at blooo.
 
-Here are some ideas to get you started:
+## 🔗 Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am now primarily active on:
+
+- 👉 https://github.com/Azakira  
+- 👉 https://github.com/CyberSecAuto-Labs  
+
+Where I focus on:
+
+- Vulnerability Management  
+- Security Automation  
+- Open-source security tooling
+
+## ℹ️ Notes
+
+Some repositories here may be older or experimental. My current work reflects my latest experience and focus in cybersecurity and security automation.
