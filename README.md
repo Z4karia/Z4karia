@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Zakaria
 
-This account contains some of my earlier work, including Ledger applications developed during my time working at blooo.
+This account contains some of my earlier work, including Ledger applications developed during my time working at [blooo](https://github.com/blooo-io).
 
 ## 🔗 Current Work
 
