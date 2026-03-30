@@ -14,7 +14,3 @@ Where I focus on:
 - Vulnerability Management  
 - Security Automation  
 - Open-source security tooling
-
-## ℹ️ Notes
-
-Some repositories here may be older or experimental. My current work reflects my latest experience and focus in cybersecurity and security automation.
